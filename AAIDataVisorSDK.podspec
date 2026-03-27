@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AAIDataVisorSDK'
-  s.version          = '0.1.9-alpha.1'
+  s.version          = '0.1.9-alpha.2'
   s.summary          = 'The device info an AAIDataVisor.'
 
 # This description is used to generate tags and improve search results.
